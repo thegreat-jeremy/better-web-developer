@@ -301,5 +301,112 @@ JS-input validity
 ## 64일차(토이프로젝트)
 - 토이프로젝트 리뷰
 
-## 65일차
+## 65일차(녹화강의)
+- Vue-Vue.js란
+- Vue-설치, 프로젝트생성, 구조이해하기
+- Vue-라우터 이해하기
+- Vue-데이터바인딩
+
+## 66일차(녹화강의)
+- Vue-이벤트
+- Vue-렌더링 조건
+- Vue-computed, watch
+- Vue-lifecycle hook
+- Vue-재사용 컴포넌트
+
+## 67일차(녹화강의)
+- Vue-부트스트랩 사용하기
+- Vue-재사용 컴포넌트 SimpleGrid
+- Vue-Slot
+- Vue-레이아웃 컴포넌트
+- Vue-provide&inject
+
+## 68일차(블로그쓰기)
+- Vue 라우터 방식 비교하기
+
+## 69일차(리뷰)
+- 블로그 리뷰 및 피드백
+- 학습 내용 요약 강의
+- 질의 응답
+
+## 70일차(녹화강의)
+- Vue-Custom Directive
+- Vue-mixins
+- Vue-플러그인
+
+## 71일차(녹화강의)
+- Vue-Vuex
+- Vue-컴포지션 API
+
+## 72일차(블로그쓰기)
+- Custom Directive 만들기
+- 다국어 플러그인 만들기
+
+## 73일차(리뷰)
+- 블로그 리뷰 및 피드백
+- 학습 내용 요약 강의
+- 질의 응답
+
+## 74일차(녹화강의)
+- Vue-카카오로그인
+- Vue-네이버로그인
+- Vue-Daum 우편번호 API
+- Vue-카카오 Maps API
+
+## 75일차(녹화강의)
+- Vue-Fontawesome
+- Vue-FullCalendar
+- Vue-Sweetalert2
+- Vue-vue-loading-overlay
+- Vue-vue-good-table
+- Vue-vue-apexcharts
+
+## 76일차(블로그쓰기)
+- Vue에서 카카오 로그인
+- Vue에서 네이버 로그인
+- Vue에서 Daum 우편번호 API
+- Vue에서 카카오 Maps API 사용하기
+
+## 78일차(리뷰)
+- 블로그 리뷰 및 피드백
+- 학습 내용 요약 강의
+- 질의 응답
+
+## 79일차(녹화강의)
+- Vue-개발 방법론
+- Vue-템플릿 SingleViewEdit 패턴
+- Vue-템플릿 MultipleEdit 패턴
+- Vue-템플릿 ListToDetail 패턴
+
+## 80일차(녹화강의)
+- Vue-템플릿 MasterDetail 패턴
+- Vue-템플릿 Shuttle 패턴
+- Vue-빌드하기(배포 파일 생성하기)
+
+## 81일차(리뷰)
+- 학습 내용 요약 강의
+- 질의 응답
+
+## 82일차(토이프로젝트)
+- 공공데이터를 활용한 프론트엔드 서비스 만들기
+
+## 83일차(토이프로젝트)
+- 공공데이터를 활용한 프론트엔드 서비스 만들기
+
+## 84일차(토이프로젝트)
+- 공공데이터를 활용한 프론트엔드 서비스 만들기
+
+## 85일차(토이프로젝트)
+- 공공데이터를 활용한 프론트엔드 서비스 만들기
+
+## 86일차(토이프로젝트)
+- 공공데이터를 활용한 프론트엔드 서비스 만들기
+
+## 87일차
+DB-MySQL 설치
+DB-데이터베이스 설계
+DB-SQL 배우기
+
+
+
 
