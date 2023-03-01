@@ -153,7 +153,7 @@
 - 학습 내용 요약 강의
 - 질의 응답
 
-## 36일차
+## 36일차(녹화강의)
 - JS-함수
 - JS-String 객체의 내장 함수
 - JS-Number 객체 내장 함수
@@ -162,6 +162,65 @@
 - JS-Set 객체 내장 함수
 - JS-Map 객체 내장 함수
 
-## 37일차
+## 37일차(녹화강의)
+- JS-Math 객체 내장 함수
+- JS-JSON 객체 내장 함수
+- JS-window 객체 내장 함수
+- JS-this 키워드
+- JS-Scope
+- JS-Default Function Parameter
+- JS-Rest Parametr
+- JS-화살표함수
+- JS-Template Literals
+- JS-Object Literal Syntax Extension
+- JS-Spread Operator
+- JS-Object Destructuring
+- JS-Array Destructuring
+
+## 38일차
+- (블로그 쓰기)Array 객체 내장 함수
+- (블로그 쓰기)Date 객체 내장 함수
+
+## 39일차
+- 블로그 리뷰 및 피드백
+- 학습 내용 요약 강의
+- 질의 응답
+
+## 40일차
+- 자바스크립트 메모리 관리
+- 브라우저 렌더링 최적화 방안
+
+## 41일차(녹화강의)
+JS-XMLHttpRequest & json-server 만들기
+JS-fetch API
+JS-async & await
+JS-module
+JS-class
+JS-error
+JS-strict mode
+JS-정규 표현식
+
+## 42일차
+- (블로그 쓰기)프론트엔드 개발자를 위한 가상 서버 : json-server 사용하기 
+- (블로그 쓰기)자주 사용되는 자바스크립트 정규식 
+- (블로그 쓰기)this 키워드
+
+## 43일차
+- 블로그 리뷰 및 피드백
+- 학습 내용 요약 강의
+- 질의 응답
+
+## 44일차
+- 웹 리소스 최적화 방안
+- 웹 공유 최적화 방안
+- 웹 검색 최적화 방안
+
+## 45일차
+- 자바스크립트 전체 강의 복습
+
+## 46일차
+- 자바스크립트 전체 강의 복습
+
+## 47일차
 
 
