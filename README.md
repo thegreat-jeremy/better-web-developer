@@ -101,7 +101,7 @@
 - 블로그 리뷰 및 피드백
 - 웹접근성(WEB-ARIA)
 
-## 28일차
+## 28일차(녹화강의)
 - CSS-CSS란
 - CSS-CSS 선택자
 - CSS-CSS 적용 방법
@@ -111,3 +111,57 @@
 - CSS-목록 스타일링
 - CSS-링크와 커서 스타일링
 - CSS-표 스타일링
+
+## 29일차(녹화강의)
+- CSS-CSS 박스 모델과 요소의 크기
+- CSS-background 스타일링
+- CSS-border 스타일링
+- CSS-overflow
+- CSS-레이아웃을 만들기 위한 CSS
+- CSS-반응형 웹
+
+## 30일차 
+- (블로그 쓰기)CSS 박스 모델 
+- (블로그 쓰기)CSS Flexbox로 레이아웃 디자인하기
+
+## 31일차
+- 블로그 리뷰 및 피드백
+- 학습 내용 요약 강의
+- 질의 응답
+
+## 32일차(녹화강의)
+- JS-자바스크립트란
+- JS-자바스크립트 작성 위치
+- JS-console 객체의 log 함수
+- JS-변수 선언자:var, let, const
+- JS-기본 데이터 타입
+- JS-데이터 타입 Object
+- JS-데이터 타입 Array
+
+## 33일차(녹화강의)
+- JS-64비트 부동소수점
+- JS-연산자:할당연산자, 비교연산자, 산술연산자, 논리연산자, 문자열연산자,조건삼항연산자
+- JS-조건문:if, switch
+- JS-반복문:for-loop, for-in, for-of, forEach, while
+
+## 34일차
+- (블로그 쓰기)변수 선언자인 var, let, const 비교 
+- (블로그 쓰기)반복문 for-loop, for-in, for-of, forEach, while 문 비교
+
+## 35일차
+- 블로그 리뷰 및 피드백
+- 학습 내용 요약 강의
+- 질의 응답
+
+## 36일차
+- JS-함수
+- JS-String 객체의 내장 함수
+- JS-Number 객체 내장 함수
+- JS-Array 객체 내장 함수
+- JS-Date 객체 내장 함수
+- JS-Set 객체 내장 함수
+- JS-Map 객체 내장 함수
+
+## 37일차
+
+
