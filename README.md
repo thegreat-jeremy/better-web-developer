@@ -211,11 +211,11 @@ JS-정규 표현식
 - 질의 응답
 
 ## 39일차(녹화강의)
-JS-DOM 요소 가져오기
-JS-DOM 속성 다루기
-JS-DOM 이벤트 다루기
-JS-DOM 요소 변경하기
-JS-input validity
+- JS-DOM 요소 가져오기
+- JS-DOM 속성 다루기
+- JS-DOM 이벤트 다루기
+- JS-DOM 요소 변경하기
+- JS-input validity
 
 ## 40일차
 - 웹 리소스 최적화 방안
